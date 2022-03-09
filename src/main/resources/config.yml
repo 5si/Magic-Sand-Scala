@@ -1,0 +1,2 @@
+command-radius: 32
+command-message: "You have {cleared/filled} &b{amount} &fmagicsand!"

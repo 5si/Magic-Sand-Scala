@@ -1,0 +1,7 @@
+main: dev.lyons.magicsand.Main
+author: 5si
+description: MagicSand plugin written in scala!
+version: 1.0
+name: ScalaMagicSand
+commands:
+  scalams:
